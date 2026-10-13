@@ -1,0 +1,10 @@
+#!/bin/sh
+# Bloque le commit si un fichier Python contient une erreur de syntaxe.
+# À activer une fois par copie du dépôt : git config core.hooksPath .githooks
+for py in python py; do
+    if command -v "$py" >/dev/null 2>&1; then
+        exec "$py" .githooks/check_syntax.py
+    fi
+done
+echo "Python introuvable : vérification de syntaxe ignorée." >&2
+exit 0

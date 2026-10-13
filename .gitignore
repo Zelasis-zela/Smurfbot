@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Données générées par le bot (propres à chaque machine, le serveur garde les siennes)
+*.db
+*.db-wal
+*.db-shm
+backups/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Éditeur
+.vscode/
