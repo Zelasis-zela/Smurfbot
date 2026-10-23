@@ -40,7 +40,7 @@ class AdminUtilsCog(commands.Cog):
     async def botstats(self, interaction: discord.Interaction):
         server_count = len(self.bot.guilds)
         embed = discord.Embed(
-            title="📊 Statistiques du Smurf Bot",
+            title="📊 Statistiques de SmurfWatch",
             description=f"Le bot est actuellement utilisé sur **{server_count}** serveurs Discord !",
             color=discord.Color.blue()
         )
@@ -53,7 +53,7 @@ class AdminUtilsCog(commands.Cog):
             return await interaction.response.send_message("❌ Tu n'as pas la permission d'utiliser cette commande.", ephemeral=True)
 
         embed = discord.Embed(
-            title="📢 Mise à jour du Smurf Bot",
+            title="📢 Mise à jour de SmurfWatch",
             description=message,
             color=discord.Color.gold()
         )

@@ -1,0 +1,709 @@
+{
+ "account": {
+  "name": "TestSmurf",
+  "tag": "0001",
+  "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3"
+ },
+ "history": [
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "26392138-f5b1-5c5e-8270-41205a0de4dd",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 31,
+   "last_change": 17,
+   "elo": 1231,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-22T18:06:34.201Z",
+   "queue_id": "competitive",
+   "match_length": 2089767,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 14,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "7fba3c35-b586-5ca4-815c-a5344a787a9a",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 14,
+   "last_change": 14,
+   "elo": 1214,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-22T16:29:50.88Z",
+   "queue_id": "competitive",
+   "match_length": 2249765,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 0,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "acfe1fca-bcd3-5026-ab44-7fbbcf6a4d38",
+   "map": {
+    "id": "1c18ab1f-420d-0d8b-71d0-77ad3c439115",
+    "name": "Corrode"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 0,
+   "last_change": -23,
+   "elo": 1200,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-22T15:50:40.831Z",
+   "queue_id": "competitive",
+   "match_length": 2130555,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 11,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "0065505f-c876-567e-8878-6f3b8f6f7276",
+   "map": {
+    "id": "756da597-416b-c0f2-f47b-afbdf28670bc",
+    "name": "Summit"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 11,
+   "last_change": -22,
+   "elo": 1211,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T14:31:44.099Z",
+   "queue_id": "competitive",
+   "match_length": 2013084,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 33,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "3358bde0-5fd0-53a0-86cc-d8ed77d61be3",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 33,
+   "last_change": 20,
+   "elo": 1233,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T13:55:22.597Z",
+   "queue_id": "competitive",
+   "match_length": 1920808,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 13,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "bc7dc8dd-b3d3-5f2c-b152-9006ef05e284",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 13,
+   "last_change": 13,
+   "elo": 1213,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T13:03:45.489Z",
+   "queue_id": "competitive",
+   "match_length": 2767161,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 0,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "47caa372-90a7-5981-ae1b-54c8af7b2e7a",
+   "map": {
+    "id": "756da597-416b-c0f2-f47b-afbdf28670bc",
+    "name": "Summit"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 0,
+   "last_change": -18,
+   "elo": 1200,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T12:26:05.319Z",
+   "queue_id": "competitive",
+   "match_length": 2085891,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 17,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "6c5f4f22-50f7-5c64-a892-abeb717daf29",
+   "map": {
+    "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+    "name": "Bind"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 17,
+   "last_change": 17,
+   "elo": 1217,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T11:51:42.148Z",
+   "queue_id": "competitive",
+   "match_length": 1455838,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 0,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "3a05e308-5579-59c9-af90-5e892a4bef82",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 0,
+   "last_change": -21,
+   "elo": 1200,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T11:12:55.023Z",
+   "queue_id": "competitive",
+   "match_length": 2065103,
+   "tier_before_update": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "rr_before_update": 10,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "match_id": "d13b7ac6-c440-56cd-8905-68aac9ce7300",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 10,
+   "last_change": 24,
+   "elo": 1210,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-21T10:29:13.746Z",
+   "queue_id": "competitive",
+   "match_length": 1921911,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 76,
+   "rr_performance_bonus": 3,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": true
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "c701444c-368b-5675-9e2f-41778186b0ab",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 76,
+   "last_change": 21,
+   "elo": 1176,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T16:31:07.233Z",
+   "queue_id": "competitive",
+   "match_length": 1662092,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 55,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "8c83c348-6e48-5f50-a534-068bfc8e7437",
+   "map": {
+    "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+    "name": "Bind"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 55,
+   "last_change": 20,
+   "elo": 1155,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T15:59:13.499Z",
+   "queue_id": "competitive",
+   "match_length": 1571249,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 35,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "0bed1d30-f04a-59c8-835c-3d53d2e88c81",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 35,
+   "last_change": -21,
+   "elo": 1135,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T15:22:43.605Z",
+   "queue_id": "competitive",
+   "match_length": 2019786,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 56,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "ce2a04e0-4dcb-5f9c-bc0b-eaa7270e196a",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 56,
+   "last_change": 23,
+   "elo": 1156,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T14:47:10.594Z",
+   "queue_id": "competitive",
+   "match_length": 1929176,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 33,
+   "rr_performance_bonus": 4,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "59c18b25-9a87-55ca-91c7-02ab4da8d72c",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 33,
+   "last_change": 15,
+   "elo": 1133,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T14:10:08.345Z",
+   "queue_id": "competitive",
+   "match_length": 2077941,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 18,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "34f2bc8b-356d-50b5-b557-1414c699e709",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 18,
+   "last_change": -17,
+   "elo": 1118,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T13:20:26.362Z",
+   "queue_id": "competitive",
+   "match_length": 2287894,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 35,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "0befa43c-efb9-5b15-9f41-2f70b6223fbe",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 35,
+   "last_change": 19,
+   "elo": 1135,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T12:51:00.972Z",
+   "queue_id": "competitive",
+   "match_length": 1621775,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 16,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "75ba3fa5-db58-5446-8350-a232c7f13f88",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 16,
+   "last_change": -16,
+   "elo": 1116,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T12:11:18.346Z",
+   "queue_id": "competitive",
+   "match_length": 2215326,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 32,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "0f4ae96c-84dd-5bb6-84be-fa97a6db6efe",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 32,
+   "last_change": 13,
+   "elo": 1132,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-20T11:21:13.697Z",
+   "queue_id": "competitive",
+   "match_length": 1779881,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 19,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  },
+  {
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "match_id": "aab2016c-355a-594b-995c-897ecf2a4dc9",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "rr": 19,
+   "last_change": -17,
+   "elo": 1119,
+   "refunded_rr": 0,
+   "was_derank_protected": false,
+   "date": "2026-10-19T17:15:48.682Z",
+   "queue_id": "competitive",
+   "match_length": 2089352,
+   "tier_before_update": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "rr_before_update": 36,
+   "rr_performance_bonus": 0,
+   "new_map_incentive_rr_forgiven": 0,
+   "competitive_movement": "MOVEMENT_UNKNOWN",
+   "afk_penalty": 0,
+   "rr_penalty": 0.0,
+   "is_placement_match": false,
+   "was_derank_protection_replenished": false
+  }
+ ]
+}

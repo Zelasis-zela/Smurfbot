@@ -1,0 +1,5336 @@
+{
+ "account": {
+  "name": "TestSmurf",
+  "tag": "0001",
+  "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3"
+ },
+ "peak": {
+  "season": {
+   "id": "d816f426-48ea-f052-117f-9697a155b319",
+   "short": "e11a6"
+  },
+  "ranking_schema": "ascendant",
+  "tier": {
+   "id": 15,
+   "name": "Platinum 1"
+  },
+  "rr": 0
+ },
+ "current": {
+  "tier": {
+   "id": 15,
+   "name": "Platinum 1"
+  },
+  "rr": 31,
+  "last_change": 17,
+  "elo": 1231,
+  "games_needed_for_rating": 0,
+  "rank_protection_shields": 2,
+  "is_at_rank_protected_tier": true,
+  "rank_protection_status": "Full",
+  "games_needed_for_leaderboard": 0,
+  "leaderboard_placement": null
+ },
+ "seasonal": [
+  {
+   "season": {
+    "id": "3f61c772-4560-cd3f-5d3f-a7ab5abda6b3",
+    "short": "e1a1"
+   },
+   "wins": 0,
+   "games": 3,
+   "end_tier": {
+    "id": 0,
+    "name": "Unrated"
+   },
+   "end_rr": 0,
+   "ranking_schema": "base",
+   "leaderboard_placement": null,
+   "act_wins": [],
+   "wins_with_placements": 0,
+   "act_rank": {
+    "id": 0,
+    "name": "Unrated"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": null
+  },
+  {
+   "season": {
+    "id": "3e47230a-463c-a301-eb7d-67bb60357d4f",
+    "short": "e4a3"
+   },
+   "wins": 3,
+   "games": 16,
+   "end_tier": {
+    "id": 4,
+    "name": "Iron 2"
+   },
+   "end_rr": 39,
+   "ranking_schema": "base",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 4,
+   "act_rank": {
+    "id": 0,
+    "name": "Unrated"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "IRON": {
+     "total": 1,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "22d10d66-4d2a-a340-6c54-408c7bd53807",
+    "short": "e8a2"
+   },
+   "wins": 49,
+   "games": 104,
+   "end_tier": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "end_rr": 24,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 52,
+   "act_rank": {
+    "id": 8,
+    "name": "Bronze 3"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 1,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "4539cac3-47ae-90e5-3d01-b3812ca3274e",
+    "short": "e8a3"
+   },
+   "wins": 34,
+   "games": 81,
+   "end_tier": {
+    "id": 6,
+    "name": "Bronze 1"
+   },
+   "end_rr": 55,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    }
+   ],
+   "wins_with_placements": 34,
+   "act_rank": {
+    "id": 8,
+    "name": "Bronze 3"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 1,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "52ca6698-41c1-e7de-4008-8994d2221209",
+    "short": "e9a1"
+   },
+   "wins": 65,
+   "games": 132,
+   "end_tier": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "end_rr": 70,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 67,
+   "act_rank": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 1,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "292f58db-4c17-89a7-b1c0-ba988f0e9d98",
+    "short": "e9a2"
+   },
+   "wins": 18,
+   "games": 42,
+   "end_tier": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "end_rr": 0,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    }
+   ],
+   "wins_with_placements": 18,
+   "act_rank": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 1,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "dcde7346-4085-de4f-c463-2489ed47983b",
+    "short": "e9a3"
+   },
+   "wins": 13,
+   "games": 31,
+   "end_tier": {
+    "id": 8,
+    "name": "Bronze 3"
+   },
+   "end_rr": 51,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    }
+   ],
+   "wins_with_placements": 13,
+   "act_rank": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 1,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "16118998-4705-5813-86dd-0292a2439d90",
+    "short": "e10a2"
+   },
+   "wins": 98,
+   "games": 201,
+   "end_tier": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "end_rr": 28,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 100,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 2,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "aef237a0-494d-3a14-a1c8-ec8de84e309c",
+    "short": "e10a3"
+   },
+   "wins": 120,
+   "games": 266,
+   "end_tier": {
+    "id": 6,
+    "name": "Bronze 1"
+   },
+   "end_rr": 67,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    }
+   ],
+   "wins_with_placements": 120,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 2,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "ac12e9b3-47e6-9599-8fa1-0bb473e5efc7",
+    "short": "e10a4"
+   },
+   "wins": 146,
+   "games": 308,
+   "end_tier": {
+    "id": 6,
+    "name": "Bronze 1"
+   },
+   "end_rr": 2,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 4,
+     "name": "Iron 2"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 148,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 3,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "5adc33fa-4f30-2899-f131-6fba64c5dd3a",
+    "short": "e10a5"
+   },
+   "wins": 78,
+   "games": 154,
+   "end_tier": {
+    "id": 6,
+    "name": "Bronze 1"
+   },
+   "end_rr": 70,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    }
+   ],
+   "wins_with_placements": 78,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 3,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "4c4b8cff-43eb-13d3-8f14-96b783c90cd2",
+    "short": "e10a6"
+   },
+   "wins": 95,
+   "games": 199,
+   "end_tier": {
+    "id": 6,
+    "name": "Bronze 1"
+   },
+   "end_rr": 75,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    }
+   ],
+   "wins_with_placements": 95,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "BRONZE": {
+     "total": 3,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "3ea2b318-423b-cf86-25da-7cbb0eefbe2d",
+    "short": "e11a1"
+   },
+   "wins": 108,
+   "games": 204,
+   "end_tier": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "end_rr": 10,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 111,
+   "act_rank": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 2,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "9d85c932-4820-c060-09c3-668636d4df1b",
+    "short": "e11a2"
+   },
+   "wins": 59,
+   "games": 110,
+   "end_tier": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "end_rr": 8,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    }
+   ],
+   "wins_with_placements": 59,
+   "act_rank": {
+    "id": 9,
+    "name": "Silver 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 2,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "ce2783e8-44fc-dd48-3da3-33b5ba6c4a22",
+    "short": "e11a3"
+   },
+   "wins": 82,
+   "games": 169,
+   "end_tier": {
+    "id": 8,
+    "name": "Bronze 3"
+   },
+   "end_rr": 0,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    }
+   ],
+   "wins_with_placements": 82,
+   "act_rank": {
+    "id": 10,
+    "name": "Silver 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "SILVER": {
+     "total": 2,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "4f0864e2-40af-28a4-de2c-0e9e64e75f23",
+    "short": "e11a4"
+   },
+   "wins": 60,
+   "games": 139,
+   "end_tier": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "end_rr": 40,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 6,
+     "name": "Bronze 1"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 5,
+     "name": "Iron 3"
+    },
+    {
+     "id": 0,
+     "name": "Unrated"
+    }
+   ],
+   "wins_with_placements": 61,
+   "act_rank": {
+    "id": 7,
+    "name": "Bronze 2"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "GOLD": {
+     "total": 1,
+     "delta": 0
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "8102cd81-43a0-d0d7-bd59-47b8fe9bed1b",
+    "short": "e11a5"
+   },
+   "wins": 114,
+   "games": 204,
+   "end_tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "end_rr": 35,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 12,
+     "name": "Gold 1"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 11,
+     "name": "Silver 3"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 10,
+     "name": "Silver 2"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 9,
+     "name": "Silver 1"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 8,
+     "name": "Bronze 3"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    },
+    {
+     "id": 7,
+     "name": "Bronze 2"
+    }
+   ],
+   "wins_with_placements": 114,
+   "act_rank": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "GOLD": {
+     "total": 1,
+     "delta": 1
+    }
+   }
+  },
+  {
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "wins": 26,
+   "games": 45,
+   "end_tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "end_rr": 31,
+   "ranking_schema": "ascendant",
+   "leaderboard_placement": null,
+   "act_wins": [
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 15,
+     "name": "Platinum 1"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 14,
+     "name": "Gold 3"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    },
+    {
+     "id": 13,
+     "name": "Gold 2"
+    }
+   ],
+   "wins_with_placements": 26,
+   "act_rank": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "games_needed_for_rating": 0,
+   "prestige": {
+    "PLATINUM": {
+     "total": 1,
+     "delta": 1
+    }
+   }
+  }
+ ],
+ "lifetime_prestige": {
+  "SILVER": {
+   "count": 2
+  },
+  "GOLD": {
+   "count": 1
+  },
+  "BRONZE": {
+   "count": 3
+  },
+  "IRON": {
+   "count": 1
+  },
+  "PLATINUM": {
+   "count": 1
+  }
+ },
+ "ranked_state": {
+  "is_act_rank_badge_hidden": false,
+  "is_leaderboard_anonymized": false
+ },
+ "latest_update": {
+  "tier": {
+   "id": 15,
+   "name": "Platinum 1"
+  },
+  "match_id": "26392138-f5b1-5c5e-8270-41205a0de4dd",
+  "map": {
+   "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+   "name": "Lotus"
+  },
+  "season": {
+   "id": "d816f426-48ea-f052-117f-9697a155b319",
+   "short": "e11a6"
+  },
+  "rr": 31,
+  "last_change": 17,
+  "elo": 1231,
+  "refunded_rr": 0,
+  "was_derank_protected": false,
+  "date": "2026-10-22T18:06:34.201Z",
+  "queue_id": "competitive",
+  "match_length": 2089767,
+  "tier_before_update": {
+   "id": 15,
+   "name": "Platinum 1"
+  },
+  "rr_before_update": 14,
+  "rr_performance_bonus": 0,
+  "new_map_incentive_rr_forgiven": 0,
+  "competitive_movement": "MOVEMENT_UNKNOWN",
+  "afk_penalty": 0,
+  "rr_penalty": 0.0,
+  "is_placement_match": false,
+  "was_derank_protection_replenished": false
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+ "region": "eu",
+ "account_level": 331,
+ "name": "TestSmurf",
+ "tag": "0001",
+ "card": {
+  "small": "https://media.valorant-api.com/playercards/2723cfbb-4a3d-8b62-eac5-6cafe0b7d856/smallart.png",
+  "large": "https://media.valorant-api.com/playercards/2723cfbb-4a3d-8b62-eac5-6cafe0b7d856/largeart.png",
+  "wide": "https://media.valorant-api.com/playercards/2723cfbb-4a3d-8b62-eac5-6cafe0b7d856/wideart.png",
+  "id": "2723cfbb-4a3d-8b62-eac5-6cafe0b7d856"
+ },
+ "last_update": "0 minutes ago",
+ "last_update_raw": 1792699624
+}

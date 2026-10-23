@@ -1,0 +1,432 @@
+{
+ "metadata": {
+  "match_id": "bc7dc8dd-b3d3-5f2c-b152-9006ef05e284",
+  "map": {
+   "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+   "name": "Haven"
+  },
+  "game_version": "release-13.08-shipping-20-5715960",
+  "game_length_in_ms": 2767161,
+  "started_at": "2026-10-21T13:03:45.489Z",
+  "is_completed": true,
+  "queue": {
+   "id": "competitive",
+   "name": "Competitive",
+   "mode_type": "Standard"
+  },
+  "season": {
+   "id": "d816f426-48ea-f052-117f-9697a155b319",
+   "short": "e11a6"
+  },
+  "platform": "pc",
+  "premier": null,
+  "party_rr_penaltys": [
+   {
+    "party_id": "2cc31798-8807-5418-b725-fe2c5e63462d",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "da827605-09a9-5fb1-b1d1-2802c4b39080",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "b020318e-f8e3-51df-a436-aa2d3217dd2a",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "5cd814ac-f2d4-59f1-b850-28b6b46eeb66",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "613d0ba6-7650-5c1a-9d96-2cfd73221e0e",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "0c2e9035-de35-59f1-906e-17034a5f9447",
+    "penalty": 0.0
+   },
+   {
+    "party_id": "c2892ab4-e1d6-5701-bc2e-39283e04714c",
+    "penalty": 0.0
+   }
+  ],
+  "region": "eu",
+  "cluster": "Paris",
+  "mvp": {
+   "puuid": "aee7799f-c68d-5b1e-83fe-632b45bd8b8b",
+   "name": "Joueur1",
+   "tag": "T1",
+   "team": "Red"
+  }
+ },
+ "players": [
+  {
+   "puuid": "47b6212b-562b-5219-9111-cf8d9ae0b456",
+   "name": "Joueur2",
+   "tag": "T2",
+   "team_id": "Blue",
+   "team_number": 1,
+   "platform": "pc",
+   "party_id": "c2892ab4-e1d6-5701-bc2e-39283e04714c",
+   "agent": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "stats": {
+    "score": 6209,
+    "kills": 23,
+    "deaths": 18,
+    "assists": 5,
+    "headshots": 13,
+    "bodyshots": 65,
+    "legshots": 5,
+    "damage": {
+     "dealt": 4040,
+     "received": 3487
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 86,
+   "session_playtime_in_ms": 10260000
+  },
+  {
+   "puuid": "9e37e1e3-823e-5f3d-8426-fdd3e38e4e8b",
+   "name": "Joueur3",
+   "tag": "T3",
+   "team_id": "Blue",
+   "team_number": 1,
+   "platform": "pc",
+   "party_id": "c2892ab4-e1d6-5701-bc2e-39283e04714c",
+   "agent": {
+    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+    "name": "Cypher"
+   },
+   "stats": {
+    "score": 7455,
+    "kills": 24,
+    "deaths": 19,
+    "assists": 7,
+    "headshots": 18,
+    "bodyshots": 85,
+    "legshots": 8,
+    "damage": {
+     "dealt": 5189,
+     "received": 3724
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 214,
+   "session_playtime_in_ms": 1800000
+  },
+  {
+   "puuid": "f2cfdaca-ae5c-5cf2-8354-3f8d7b3e2e59",
+   "name": "Joueur4",
+   "tag": "T4",
+   "team_id": "Blue",
+   "team_number": 1,
+   "platform": "pc",
+   "party_id": "c2892ab4-e1d6-5701-bc2e-39283e04714c",
+   "agent": {
+    "id": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+    "name": "Chamber"
+   },
+   "stats": {
+    "score": 3536,
+    "kills": 13,
+    "deaths": 18,
+    "assists": 4,
+    "headshots": 6,
+    "bodyshots": 21,
+    "legshots": 0,
+    "damage": {
+     "dealt": 2404,
+     "received": 3374
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 13,
+    "name": "Gold 2"
+   },
+   "account_level": 244,
+   "session_playtime_in_ms": 900000
+  },
+  {
+   "puuid": "40756635-d7aa-58b5-92da-ef93e6cff546",
+   "name": "Joueur5",
+   "tag": "T5",
+   "team_id": "Red",
+   "team_number": 2,
+   "platform": "pc",
+   "party_id": "2cc31798-8807-5418-b725-fe2c5e63462d",
+   "agent": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "stats": {
+    "score": 5112,
+    "kills": 17,
+    "deaths": 17,
+    "assists": 12,
+    "headshots": 20,
+    "bodyshots": 28,
+    "legshots": 0,
+    "damage": {
+     "dealt": 3785,
+     "received": 3110
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 13,
+    "name": "Gold 2"
+   },
+   "account_level": 130,
+   "session_playtime_in_ms": 1020000
+  },
+  {
+   "puuid": "aee7799f-c68d-5b1e-83fe-632b45bd8b8b",
+   "name": "Joueur1",
+   "tag": "T1",
+   "team_id": "Red",
+   "team_number": 2,
+   "platform": "pc",
+   "party_id": "613d0ba6-7650-5c1a-9d96-2cfd73221e0e",
+   "agent": {
+    "id": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+    "name": "Reyna"
+   },
+   "stats": {
+    "score": 7191,
+    "kills": 25,
+    "deaths": 15,
+    "assists": 8,
+    "headshots": 23,
+    "bodyshots": 37,
+    "legshots": 1,
+    "damage": {
+     "dealt": 4908,
+     "received": 3211
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 115,
+   "session_playtime_in_ms": 13860000
+  },
+  {
+   "puuid": "1096ef5c-7f90-5224-8580-03f5b3699bd5",
+   "name": "Joueur6",
+   "tag": "T6",
+   "team_id": "Red",
+   "team_number": 2,
+   "platform": "pc",
+   "party_id": "b020318e-f8e3-51df-a436-aa2d3217dd2a",
+   "agent": {
+    "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
+    "name": "Sage"
+   },
+   "stats": {
+    "score": 5709,
+    "kills": 20,
+    "deaths": 17,
+    "assists": 8,
+    "headshots": 13,
+    "bodyshots": 43,
+    "legshots": 2,
+    "damage": {
+     "dealt": 3498,
+     "received": 3678
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 40,
+   "session_playtime_in_ms": 5940000
+  },
+  {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "TestSmurf",
+   "tag": "0001",
+   "team_id": "Red",
+   "team_number": 2,
+   "platform": "pc",
+   "party_id": "5cd814ac-f2d4-59f1-b850-28b6b46eeb66",
+   "agent": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "stats": {
+    "score": 4692,
+    "kills": 16,
+    "deaths": 21,
+    "assists": 3,
+    "headshots": 11,
+    "bodyshots": 42,
+    "legshots": 1,
+    "damage": {
+     "dealt": 3230,
+     "received": 4082
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 331,
+   "session_playtime_in_ms": 9480000
+  },
+  {
+   "puuid": "f4e98a39-75cc-5232-b849-cc11316f167c",
+   "name": "Joueur7",
+   "tag": "T7",
+   "team_id": "Red",
+   "team_number": 2,
+   "platform": "pc",
+   "party_id": "5cd814ac-f2d4-59f1-b850-28b6b46eeb66",
+   "agent": {
+    "id": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "name": "Fade"
+   },
+   "stats": {
+    "score": 4335,
+    "kills": 13,
+    "deaths": 20,
+    "assists": 12,
+    "headshots": 5,
+    "bodyshots": 49,
+    "legshots": 4,
+    "damage": {
+     "dealt": 2741,
+     "received": 3686
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 14,
+    "name": "Gold 3"
+   },
+   "account_level": 52,
+   "session_playtime_in_ms": 9420000
+  },
+  {
+   "puuid": "73e688ca-7e64-587b-9752-9ac318cb592a",
+   "name": "Joueur8",
+   "tag": "T8",
+   "team_id": "Blue",
+   "team_number": 1,
+   "platform": "pc",
+   "party_id": "0c2e9035-de35-59f1-906e-17034a5f9447",
+   "agent": {
+    "id": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+    "name": "Phoenix"
+   },
+   "stats": {
+    "score": 5078,
+    "kills": 17,
+    "deaths": 18,
+    "assists": 6,
+    "headshots": 12,
+    "bodyshots": 34,
+    "legshots": 1,
+    "damage": {
+     "dealt": 3425,
+     "received": 3902
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 12,
+    "name": "Gold 1"
+   },
+   "account_level": 134,
+   "session_playtime_in_ms": 2640000
+  },
+  {
+   "puuid": "5bd7f0aa-54e7-5a87-b349-87e4a4674100",
+   "name": "Joueur9",
+   "tag": "T9",
+   "team_id": "Blue",
+   "team_number": 1,
+   "platform": "pc",
+   "party_id": "da827605-09a9-5fb1-b1d1-2802c4b39080",
+   "agent": {
+    "id": "7c8a4701-4de6-9355-b254-e09bc2a34b72",
+    "name": "Miks"
+   },
+   "stats": {
+    "score": 4059,
+    "kills": 13,
+    "deaths": 18,
+    "assists": 9,
+    "headshots": 14,
+    "bodyshots": 18,
+    "legshots": 1,
+    "damage": {
+     "dealt": 2695,
+     "received": 3661
+    }
+   },
+   "drafted_ability_casts": null,
+   "tier": {
+    "id": 15,
+    "name": "Platinum 1"
+   },
+   "account_level": 280,
+   "session_playtime_in_ms": 2460000
+  }
+ ],
+ "teams": [
+  {
+   "team_id": "Red",
+   "team_number": null,
+   "placement": 1,
+   "mvp": {
+    "puuid": "aee7799f-c68d-5b1e-83fe-632b45bd8b8b",
+    "name": "Joueur1",
+    "tag": "T1",
+    "team": "Red"
+   },
+   "health": null,
+   "rounds": {
+    "won": 13,
+    "lost": 11
+   },
+   "won": true,
+   "premier_roster": null
+  },
+  {
+   "team_id": "Blue",
+   "team_number": null,
+   "placement": 2,
+   "mvp": {
+    "puuid": "9e37e1e3-823e-5f3d-8426-fdd3e38e4e8b",
+    "name": "Joueur3",
+    "tag": "T3",
+    "team": "Blue"
+   },
+   "health": null,
+   "rounds": {
+    "won": 11,
+    "lost": 13
+   },
+   "won": false,
+   "premier_roster": null
+  }
+ ]
+}

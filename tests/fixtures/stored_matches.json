@@ -1,0 +1,942 @@
+[
+ {
+  "meta": {
+   "id": "26392138-f5b1-5c5e-8270-41205a0de4dd",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-22T18:06:34.201Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 15,
+   "score": 4469,
+   "kills": 14,
+   "deaths": 16,
+   "assists": 8,
+   "shots": {
+    "head": 9,
+    "body": 47,
+    "leg": 5
+   },
+   "damage": {
+    "made": 3291,
+    "received": 3024
+   }
+  },
+  "teams": {
+   "red": 7,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "7fba3c35-b586-5ca4-815c-a5344a787a9a",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-22T16:29:50.88Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+    "name": "Fade"
+   },
+   "tier": 15,
+   "score": 3418,
+   "kills": 11,
+   "deaths": 19,
+   "assists": 11,
+   "shots": {
+    "head": 7,
+    "body": 30,
+    "leg": 4
+   },
+   "damage": {
+    "made": 1943,
+    "received": 3404
+   }
+  },
+  "teams": {
+   "red": 10,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "acfe1fca-bcd3-5026-ab44-7fbbcf6a4d38",
+   "map": {
+    "id": "1c18ab1f-420d-0d8b-71d0-77ad3c439115",
+    "name": "Corrode"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-22T15:50:40.831Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 331,
+   "character": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "tier": 15,
+   "score": 2884,
+   "kills": 10,
+   "deaths": 17,
+   "assists": 5,
+   "shots": {
+    "head": 7,
+    "body": 27,
+    "leg": 0
+   },
+   "damage": {
+    "made": 1996,
+    "received": 3064
+   }
+  },
+  "teams": {
+   "red": 10,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "0065505f-c876-567e-8878-6f3b8f6f7276",
+   "map": {
+    "id": "756da597-416b-c0f2-f47b-afbdf28670bc",
+    "name": "Summit"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T14:31:44.099Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "tier": 15,
+   "score": 2330,
+   "kills": 9,
+   "deaths": 16,
+   "assists": 6,
+   "shots": {
+    "head": 8,
+    "body": 16,
+    "leg": 0
+   },
+   "damage": {
+    "made": 1491,
+    "received": 3095
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 7
+  }
+ },
+ {
+  "meta": {
+   "id": "3358bde0-5fd0-53a0-86cc-d8ed77d61be3",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T13:55:22.597Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 15,
+   "score": 6146,
+   "kills": 20,
+   "deaths": 15,
+   "assists": 7,
+   "shots": {
+    "head": 16,
+    "body": 40,
+    "leg": 0
+   },
+   "damage": {
+    "made": 3990,
+    "received": 3035
+   }
+  },
+  "teams": {
+   "red": 6,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "bc7dc8dd-b3d3-5f2c-b152-9006ef05e284",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T13:03:45.489Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 331,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 15,
+   "score": 4692,
+   "kills": 16,
+   "deaths": 21,
+   "assists": 3,
+   "shots": {
+    "head": 11,
+    "body": 42,
+    "leg": 1
+   },
+   "damage": {
+    "made": 3230,
+    "received": 4082
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 11
+  }
+ },
+ {
+  "meta": {
+   "id": "47caa372-90a7-5981-ae1b-54c8af7b2e7a",
+   "map": {
+    "id": "756da597-416b-c0f2-f47b-afbdf28670bc",
+    "name": "Summit"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T12:26:05.319Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 15,
+   "score": 5740,
+   "kills": 17,
+   "deaths": 18,
+   "assists": 10,
+   "shots": {
+    "head": 7,
+    "body": 83,
+    "leg": 4
+   },
+   "damage": {
+    "made": 3693,
+    "received": 3743
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 8
+  }
+ },
+ {
+  "meta": {
+   "id": "6c5f4f22-50f7-5c64-a892-abeb717daf29",
+   "map": {
+    "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+    "name": "Bind"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T11:51:42.148Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 331,
+   "character": {
+    "id": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+    "name": "Deadlock"
+   },
+   "tier": 15,
+   "score": 2896,
+   "kills": 12,
+   "deaths": 8,
+   "assists": 6,
+   "shots": {
+    "head": 8,
+    "body": 21,
+    "leg": 1
+   },
+   "damage": {
+    "made": 1700,
+    "received": 1330
+   }
+  },
+  "teams": {
+   "red": 4,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "3a05e308-5579-59c9-af90-5e892a4bef82",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T11:12:55.023Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 331,
+   "character": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "tier": 15,
+   "score": 3172,
+   "kills": 10,
+   "deaths": 17,
+   "assists": 8,
+   "shots": {
+    "head": 10,
+    "body": 36,
+    "leg": 0
+   },
+   "damage": {
+    "made": 2205,
+    "received": 3166
+   }
+  },
+  "teams": {
+   "red": 9,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "d13b7ac6-c440-56cd-8905-68aac9ce7300",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-21T10:29:13.746Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 7765,
+   "kills": 27,
+   "deaths": 14,
+   "assists": 6,
+   "shots": {
+    "head": 19,
+    "body": 54,
+    "leg": 0
+   },
+   "damage": {
+    "made": 4643,
+    "received": 2853
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 6
+  }
+ },
+ {
+  "meta": {
+   "id": "c701444c-368b-5675-9e2f-41778186b0ab",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T16:31:07.233Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Frankfurt"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 330,
+   "character": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "tier": 14,
+   "score": 4770,
+   "kills": 18,
+   "deaths": 9,
+   "assists": 3,
+   "shots": {
+    "head": 12,
+    "body": 40,
+    "leg": 2
+   },
+   "damage": {
+    "made": 3022,
+    "received": 2082
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 5
+  }
+ },
+ {
+  "meta": {
+   "id": "8c83c348-6e48-5f50-a534-068bfc8e7437",
+   "map": {
+    "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+    "name": "Bind"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T15:59:13.499Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 4534,
+   "kills": 16,
+   "deaths": 11,
+   "assists": 6,
+   "shots": {
+    "head": 10,
+    "body": 51,
+    "leg": 2
+   },
+   "damage": {
+    "made": 3032,
+    "received": 1737
+   }
+  },
+  "teams": {
+   "red": 5,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "0bed1d30-f04a-59c8-835c-3d53d2e88c81",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T15:22:43.605Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 3451,
+   "kills": 11,
+   "deaths": 15,
+   "assists": 3,
+   "shots": {
+    "head": 5,
+    "body": 47,
+    "leg": 5
+   },
+   "damage": {
+    "made": 2258,
+    "received": 2850
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 6
+  }
+ },
+ {
+  "meta": {
+   "id": "ce2a04e0-4dcb-5f9c-bc0b-eaa7270e196a",
+   "map": {
+    "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+    "name": "Lotus"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T14:47:10.594Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 6800,
+   "kills": 23,
+   "deaths": 13,
+   "assists": 7,
+   "shots": {
+    "head": 19,
+    "body": 55,
+    "leg": 0
+   },
+   "damage": {
+    "made": 4339,
+    "received": 2911
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 8
+  }
+ },
+ {
+  "meta": {
+   "id": "59c18b25-9a87-55ca-91c7-02ab4da8d72c",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T14:10:08.345Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "London"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Red",
+   "level": 330,
+   "character": {
+    "id": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+    "name": "Jett"
+   },
+   "tier": 14,
+   "score": 3445,
+   "kills": 11,
+   "deaths": 14,
+   "assists": 3,
+   "shots": {
+    "head": 11,
+    "body": 23,
+    "leg": 1
+   },
+   "damage": {
+    "made": 2400,
+    "received": 2784
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 10
+  }
+ },
+ {
+  "meta": {
+   "id": "34f2bc8b-356d-50b5-b557-1414c699e709",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T13:20:26.362Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+    "name": "Phoenix"
+   },
+   "tier": 14,
+   "score": 6271,
+   "kills": 20,
+   "deaths": 21,
+   "assists": 12,
+   "shots": {
+    "head": 14,
+    "body": 42,
+    "leg": 8
+   },
+   "damage": {
+    "made": 3942,
+    "received": 4696
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 11
+  }
+ },
+ {
+  "meta": {
+   "id": "0befa43c-efb9-5b15-9f41-2f70b6223fbe",
+   "map": {
+    "id": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+    "name": "Sunset"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T12:51:00.972Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "London"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 4193,
+   "kills": 15,
+   "deaths": 11,
+   "assists": 8,
+   "shots": {
+    "head": 7,
+    "body": 47,
+    "leg": 3
+   },
+   "damage": {
+    "made": 2861,
+    "received": 2234
+   }
+  },
+  "teams": {
+   "red": 4,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "75ba3fa5-db58-5446-8350-a232c7f13f88",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T12:11:18.346Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "f94c3b30-42be-e959-889c-5aa313dba261",
+    "name": "Raze"
+   },
+   "tier": 14,
+   "score": 5341,
+   "kills": 16,
+   "deaths": 19,
+   "assists": 11,
+   "shots": {
+    "head": 13,
+    "body": 41,
+    "leg": 1
+   },
+   "damage": {
+    "made": 3922,
+    "received": 3394
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 11
+  }
+ },
+ {
+  "meta": {
+   "id": "0f4ae96c-84dd-5bb6-84be-fa97a6db6efe",
+   "map": {
+    "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+    "name": "Haven"
+   },
+   "version": "release-13.08-shipping-20-5715960",
+   "mode": "Competitive",
+   "started_at": "2026-10-20T11:21:13.697Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "Paris"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 330,
+   "character": {
+    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+    "name": "Omen"
+   },
+   "tier": 14,
+   "score": 4166,
+   "kills": 15,
+   "deaths": 14,
+   "assists": 10,
+   "shots": {
+    "head": 13,
+    "body": 29,
+    "leg": 1
+   },
+   "damage": {
+    "made": 2608,
+    "received": 2458
+   }
+  },
+  "teams": {
+   "red": 6,
+   "blue": 13
+  }
+ },
+ {
+  "meta": {
+   "id": "aab2016c-355a-594b-995c-897ecf2a4dc9",
+   "map": {
+    "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+    "name": "Abyss"
+   },
+   "version": "release-13.08-shipping-19-5698904",
+   "mode": "Competitive",
+   "started_at": "2026-10-19T17:15:48.682Z",
+   "season": {
+    "id": "d816f426-48ea-f052-117f-9697a155b319",
+    "short": "e11a6"
+   },
+   "region": "eu",
+   "cluster": "London"
+  },
+  "stats": {
+   "puuid": "ca8db163-28ec-5c25-88b7-51d4839245e3",
+   "name": "",
+   "tag": "",
+   "team": "Blue",
+   "level": 329,
+   "character": {
+    "id": "1dbf2edd-4729-0984-3115-daa5eed44993",
+    "name": "Clove"
+   },
+   "tier": 14,
+   "score": 4836,
+   "kills": 17,
+   "deaths": 21,
+   "assists": 10,
+   "shots": {
+    "head": 12,
+    "body": 47,
+    "leg": 1
+   },
+   "damage": {
+    "made": 3164,
+    "received": 4032
+   }
+  },
+  "teams": {
+   "red": 13,
+   "blue": 10
+  }
+ }
+]
